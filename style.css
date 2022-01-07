@@ -13,6 +13,7 @@ p{
 }
 section{
     display: flex;
+    margin-bottom: 80px;
 }
 .half{
     padding-left: 5%;
@@ -28,13 +29,11 @@ section{
 }
 .link_button{
     text-decoration: none; /* anchor underline hiding */
-    background-image: linear-gradient(orange, orangered );
+    background-image: linear-gradient(rgb(176, 176, 204), navy );
     padding: 10px 40px;
     color: white;
     font-weight: 300;
     border-radius: 5px;
-    
-
 }
 .bgnokta{
     background-image: url(images/top-banner.png);
