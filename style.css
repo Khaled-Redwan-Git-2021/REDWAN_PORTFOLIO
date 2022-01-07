@@ -54,9 +54,17 @@ p{
     padding-left: 10px;
     padding-right: 10px;    
     margin-left: 10%;
-    margin-right: 5%;
+    margin-right: 10%;
     border-radius: 10px;
+    
+}
+.halfex p{
     text-align: justify;
+}
+.sec3{
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
 }
     
     
