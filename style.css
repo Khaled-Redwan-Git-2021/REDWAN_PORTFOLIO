@@ -26,3 +26,17 @@ section{
 .half p{
     width: 90%;
 }
+.link_button{
+    text-decoration: none; /* anchor underline hiding */
+    background-image: linear-gradient(orange, orangered );
+    padding: 10px 40px;
+    color: white;
+    font-weight: 300;
+    border-radius: 5px;
+    
+
+}
+.bgnokta{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
