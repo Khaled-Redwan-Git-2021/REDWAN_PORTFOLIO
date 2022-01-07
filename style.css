@@ -60,7 +60,7 @@ p{
     
 }
 .halfex p{
-    text-align: justify;
+    width: 100%;
 }
 .sec3{
 background-image: url(images/exp-bg.png);
@@ -82,5 +82,11 @@ background-position: left;
 
 footer p{
     text-align: center;
+    width: 100%;
+}
+.flexcon{
+    display: flex;
+
+
 }
     
