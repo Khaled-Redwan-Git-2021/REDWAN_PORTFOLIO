@@ -35,7 +35,13 @@ section{
     font-weight: 300;
     border-radius: 5px;
 }
-.bgnokta{
+.sec01{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.sec2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
